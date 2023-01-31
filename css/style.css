@@ -1,0 +1,49 @@
+body{
+    font-family: 'Righteous', cursive;
+    background:url(../img/background-image.jpg);
+}
+/***BAŞLIK***/
+h1{
+    font-size: 60px;
+    color: #633618;
+    text-shadow: 4px 2px 1px #a7853b;
+    font-weight: 800;
+}
+h1:hover{
+    color: #a7853b;
+    text-shadow: 6px 3px 1px #633618;
+}
+/* ------------------------------------------------ */
+
+/***MENÜ***/
+.navbar a{
+    color: #331e14;
+    font-size: 20px;
+}
+.navbar a:hover{
+    text-decoration: none;
+}
+/* ------------------------------------------------ */
+
+h2{
+    font-size: 20px;
+    color: #573104;
+    text-shadow: 3px 2px 1px #FAEAB1;
+    font-weight: 300;
+}
+h3{
+    font-size: 15px;
+}
+ul li{
+    list-style-position:inside;
+    font-size: 12px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+
+
